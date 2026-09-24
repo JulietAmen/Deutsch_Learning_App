@@ -1,0 +1,7 @@
+{
+  "name": "German Language Learning App",
+  "description": "Comprehensive German learning app for A2, B1, and B2 learners featuring vocabulary flashcards, grammar rules, interactive sentence builder, progress quizzes, daily streak tracking, and specialized career preparation with clickable profession tabs for Data Engineers, Data Architects, Product Owners, and tech roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
